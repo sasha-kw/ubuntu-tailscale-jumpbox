@@ -25,6 +25,3 @@ sudo ufw allow 41641/udp
 # reload firewall and ssh
 sudo ufw reload
 sudo service ssh restart
-
-# reboot
-sudo reboot
