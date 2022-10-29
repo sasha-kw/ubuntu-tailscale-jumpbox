@@ -1,1 +1,5 @@
-A basic config for a Ubuntu tailscale jumpbox
+# A basic config for a Ubuntu Tailscale jumpbox
+
+## See:
+
+[Tailscale](https://tailscale.com/)
